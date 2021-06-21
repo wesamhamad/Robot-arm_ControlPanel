@@ -11,7 +11,7 @@ A project for SmartMethods Internship the software development process of a robo
 
 
 
-These two task are in ROBOT CONTROLLERS.php file 
+These two tasks are in ROBOT CONTROLLERS.php file 
 
 -Then I designed a Web page -Run.php- to display the last record inserted in Run table which contained the value of ON/OFF column 1 to indicate ON .
 
