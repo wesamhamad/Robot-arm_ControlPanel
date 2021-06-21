@@ -1,6 +1,6 @@
 # Robot-arm_ControlPanel
 
-A project for SmartMethods Internship the software development process of a robotic arm.
+A project for SmartMethods Internship, the software development process of a robotic arm.
 
 -I designed a Web page to control a Robot arm , API (Application Programming Interface) using html, css, javascript to controls the movement of robot arm, each part of arm have range bar 0-180 degree .
 	
