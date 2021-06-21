@@ -6,8 +6,8 @@ A project for SmartMethods Internship the software development process of a robo
 	
 -After that I designed a database with two tables(Engines,Run) and  I connected it with the Interface to insert values of each engine and where it on  into corresponding column of the table.
 
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/74800962/122817933-398dc900-d2e1-11eb-803b-f62212f6e8f9.gif)
 
-![5e25mg](https://user-images.githubusercontent.com/74800962/122817559-b9676380-d2e0-11eb-97e1-18fdac82108c.gif)
 
 
 
