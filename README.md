@@ -6,12 +6,8 @@ A project for SmartMethods Internship the software development process of a robo
 	
 -After that I designed a database with two tables(Engines,Run) and  I connected it with the Interface to insert values of each engine and where it on  into corresponding column of the table.
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/74800962/122817933-398dc900-d2e1-11eb-803b-f62212f6e8f9.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/74800962/122817933-398dc900-d2e1-11eb-803b-f62212f6e8f9.gif)![con2](https://user-images.githubusercontent.com/74800962/122818345-bb7df200-d2e1-11eb-9c42-b2f1374bf014.gif)
 
-
-
-
-![con2](https://user-images.githubusercontent.com/74800962/122815741-891ec580-d2de-11eb-95ab-b165bd0610de.gif)
 
 
 These two task are in ROBOT CONTROLLERS.php file 
