@@ -4,7 +4,7 @@ A project for SmartMethods Internship the software development process of a robo
 
 -I designed a Web page to control a Robot arm , API (Application Programming Interface) using html, css, javascript to controls the movement of robot arm, each part of arm have range bar 0-180 degree .
 	
-- After that I designed a database with two tables(Engines,Run) and  I connected it with the Interface to insert values of each engine and where it on  into corresponding column of the table.
+-After that I designed a database with two tables(Engines,Run) and  I connected it with the Interface to insert values of each engine and where it on  into corresponding column of the table.
 ![con1](https://user-images.githubusercontent.com/74800962/122815596-5543a000-d2de-11eb-92fa-7579413b71de.gif)
 ![con2](https://user-images.githubusercontent.com/74800962/122815741-891ec580-d2de-11eb-95ab-b165bd0610de.gif)
 
