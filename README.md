@@ -13,7 +13,7 @@ A project for SmartMethods Internship the software development process of a robo
 These two task are in ROBOT CONTROLLERS.php file 
 
 -Then I designed a Web page -Run.php- to display the last record inserted in Run table which contained the value of ON/OFF column 1 to indicate ON .
-![Run](https://user-images.githubusercontent.com/74800962/122815307-f2ea9f80-d2dd-11eb-86b6-ddc646916524.gif)
+![Run](https://user-images.githubusercontent.com/74800962/122818511-f97b1600-d2e1-11eb-9ba0-d4201c614be3.gif)
 
 
 -Also, I designed a Web page -Engines.php- to display the last record inserted in Engines table which contained the value of each part of robot arm in degree .
